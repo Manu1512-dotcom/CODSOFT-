@@ -2,5 +2,7 @@
 task codes 
 
 task 1 - SIMPLE CALCULATOR
+
 task 2 - GUESS THE NUMBER GAME
+
 task 3 - TIC TAC TOE GAME
